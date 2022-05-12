@@ -1,0 +1,23 @@
+{
+  "name": "wiki-search-webapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Wiki.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuciDevilCoder/Wiki-Search.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuciDevilCoder/Wiki-Search/issues"
+  },
+  "homepage": "https://github.com/LuciDevilCoder/Wiki-Search#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "node": "^17.7.2"
+  }
+}
